@@ -1,0 +1,13 @@
+# Site settings
+title: raehik learns Japanese
+email: thefirstmuffinman@gmail.com
+description: >
+  Come help an Internet rando learn Japanese.
+baseurl: ""
+url: "http://blog.raehik.net"
+
+github_username: raehik
+twitter_username: raehik
+
+# Build settings
+markdown: redcarpet
