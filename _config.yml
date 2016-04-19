@@ -11,3 +11,20 @@ twitter_username: raehik
 
 # Build settings
 markdown: redcarpet
+
+# Default frontmatter
+defaults:
+  -
+  # default to post for posts (so no need for layout: post)
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+  # ... and for drafts
+    scope:
+      path: ""
+      type: "drafts"
+    values:
+      layout: "post"
