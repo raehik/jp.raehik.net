@@ -1,6 +1,6 @@
 ---
 title: "Come learn Japanese with me!"
-date: 2016-04-27 22:53:09
+date: 2016-04-27 22:53:09 +0100
 ---
 
 * [The story so far][]
