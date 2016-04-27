@@ -1,6 +1,6 @@
 ---
 title: "The meaning of 「繰り返す」"
-date: 2016-04-24 15:48:10
+date: 2016-04-27 23:27:54
 music: "[ShibayanRecords - 賢者の極北](https://www.youtube.com/results?search_query=ShibayanRecords+-+賢者の極北)"
 tags: trivia music
 ---
