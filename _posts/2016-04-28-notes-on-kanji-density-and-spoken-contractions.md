@@ -1,6 +1,6 @@
 ---
 title: "Notes on kanji density and spoken contractions"
-date: 2016-04-28 12:55:43 +0100
+date: 2016-04-28 15:50:45
 ---
 
 [learn-jp]: https://www.reddit.com/r/LearnJapanese
@@ -26,3 +26,6 @@ there's one part where someone is pausing on a thought or something, and someone
 says 「はや！」. Is that a contraction of 「はやく quickly」? What other common
 contractions are there? *(Eheh, I know as of 2016-04-28 there are no comments on
 this blog, but feel free to contact me over email or on Twitter!)*
+
+Edit: Ah, there's also 「知らん」 which Google aptly translates as "dunno", and
+I'm guessing 「分からん」 which I'm assuming is a shortening of 「分からない」.
