@@ -1,6 +1,6 @@
 ---
 title: "Notes on kanji density and spoken contractions"
-date: 2016-04-28 15:50:45
+date: 2016-04-28 15:50:45 +0100
 ---
 
 [learn-jp]: https://www.reddit.com/r/LearnJapanese
