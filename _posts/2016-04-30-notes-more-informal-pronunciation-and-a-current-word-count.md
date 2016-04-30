@@ -1,6 +1,6 @@
 ---
 title: "Notes, more informal pronunciation & a current word count"
-date: 2016-04-30 16:28:49
+date: 2016-04-30 16:32:04 +0100
 music: "[じん - 日本橋高架下R計画](https://www.youtube.com/results?search_query=じん+-+日本橋高架下R計画)"
 ---
 
